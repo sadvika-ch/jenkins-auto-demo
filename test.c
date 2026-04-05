@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("Automation Triggered by jenkins\n");
+    printf("Automation trigger test\n");
     return 0;
 }
