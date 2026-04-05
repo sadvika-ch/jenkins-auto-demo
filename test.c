@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("Hello\nThis is for testing jenkins automation\n");
-    printf("Automation triggered\n");
+    printf("Automation Triggered by jenkins Successfully\n");
     return 0;
 }
